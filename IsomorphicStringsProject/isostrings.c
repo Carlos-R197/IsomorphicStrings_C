@@ -19,4 +19,6 @@ bool areIsomorphic(char strOne[], char strTwo[])
 		m1[c1] = i + 1;
 		m2[c2] = i + 1;
 	}
+	
+	return true;
 }
